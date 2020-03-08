@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+My name is Pablo Potat0(or Pablo Potato). I'm a Computing Security at some school. My passion is reverse engineering, Penetration Testing, Music and breaking stuff.
