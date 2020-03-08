@@ -1,8 +1,10 @@
 ---
-title: "Bitlab Writeup"
+title: Bitlab Writeup
 date: 2019-04-12 14:10:00 +0800
 categories: [Pentesting]
 tags: [htb]
+seo:
+  date_modified: 2020-03-07 20:43:16 -0500
 ---
 
 ## Enumeration
