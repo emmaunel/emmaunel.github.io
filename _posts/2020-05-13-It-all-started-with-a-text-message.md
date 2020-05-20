@@ -7,6 +7,10 @@ seo:
   date_modified: 2020-03-07 20:43:16 -0500
 ---
 
+## Update
+
+The real company `itsme` contacted me on twitter and they verifed that they didn't created an android app for their product. So they reported the app to google and it has been taking down successfully.
+
 ## Summary
 
 People are receiving text messages saying that their friends invited them to chat. The messages makes them install an application. Opening the app, it shows a quick walkthrough of the app and asks for a verification code. With the right code, you are instructed to install another application is constantly spamming the user with ads.   
